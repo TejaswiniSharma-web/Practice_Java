@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d8a14bc-26f3-4238-8370-b4a7fcb094d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1cGMEdrlsaQiLq6XEyi9Bnn8hkX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.SortingArrayAcending">
+    <configuration name="AndriodMobile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day9.AndriodMobile" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day7.Car" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplementationPart2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day9.ImplementationPart2" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10.RemoveDuplicateString" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingArrayAcending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10.SortingArrayAcending" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortingArrayAcending" />
+        <item itemvalue="Application.RemoveDuplicateString" />
+        <item itemvalue="Application.AndriodMobile" />
+        <item itemvalue="Application.ImplementationPart2" />
+        <item itemvalue="Application.Car" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d8a14bc-26f3-4238-8370-b4a7fcb094d2" name="Default Changelist" comment="" />
+      <created>1590150366836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590150366836</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1609257811368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1609257811368" />
+    <state x="620" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1607568913203">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1607568913203" />
+    <state x="349" y="71" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1607568901954">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="71" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1536.824@0.0.1536.824" timestamp="1607568901954" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1609260113135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609260113135" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1609260113135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609260113135" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1609260113135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609260113135" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1609260113135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609260113135" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1608635298486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1608635298486" />
+    <state x="477" y="48" key="refactoring.ChangeSignatureDialog" timestamp="1609256552486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="48" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1609256552486" />
+  </component>
+</project>
